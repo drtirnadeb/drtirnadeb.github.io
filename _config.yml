@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Dr. Tirna Deb"
+author: "Dr. Tirna Deb"
+description: "University of western Cape/ SARAO, Cape Town, South Africa"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,13 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title: "Home change"}
+  - {file: "README.md", title: "About me"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:tirnadeb.astro@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/drtirnadeb/"}
+  - {title: Twitter, icon: rss, url: "https://twitter.com/DebTirna"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
