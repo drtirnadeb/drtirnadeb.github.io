@@ -23,6 +23,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:tirnadeb.astro@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/drtirnadeb/"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/DebTirna"}
+  - {title: LinkedIn, icon: LinkedIn, url: "https://www.linkedin.com/in/tirna-deb-ph-d-79b2499b/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
