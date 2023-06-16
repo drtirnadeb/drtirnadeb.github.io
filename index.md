@@ -61,25 +61,7 @@ title: " "
     Your browser does not support the video tag.
   </video>
   <div class="overlay-text">
-    <h1>Welcome to my page</h1>
+    <h1> I am Tirna Deb from India, a seeker of philosophy, ended up in the shores of the Netherlands, trying to unfold the mystery of galactic evolution and the influence of the cosmic environment on the galaxy's structural properties. Besides science; painting, music and poetry accompany me towards the voyage to infinitude. </h1>
   </div>
 </div>
 
-<div class="content-wrapper">
-  <!-- Rest of your content -->
-  <section class="section">
-    <div class="container">
-      <div class="columns">
-        <div class="column is-one-quarter">
-          <img src="/assets/1.jpg" alt="Figure" width="100" height="200">
-        </div>
-        <div class="column">
-          <p>
-            I am Tirna Deb from India, a seeker of philosophy, ended up in the shores of the Netherlands, trying to unfold the mystery of galactic evolution and the influence of the cosmic environment on the galaxy's structural properties. Besides science; painting, music and poetry accompany me towards the voyage to infinitude. 
-
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
-</div>
