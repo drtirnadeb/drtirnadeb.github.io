@@ -2,6 +2,16 @@
 layout: page
 title: ""
 ---
+<style>
+  .download-button {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+</style>
 
 Once upon a time, in a rainy Saturday evening, I was born in Kolkata, one of the metropolitan cities in India. My family named me ‘Tirna’, in Sanskrit which means ‘to succeed’. Anyway, without understanding the deeper meaning of the name, I started my journey. I grew up in the suburban area around Kolkata, in close connection with my family, the clear dark sky full of stars, the evergreen trees and physics and mathematics.
 
@@ -11,5 +21,4 @@ After a long way through Bachelors and Masters studies and research at the Presi
 
 If you want to know more about me and my research, please find the link to my CV here. If you want to share something, please feel free to contact me. 
 
-[Download CV](/assets/Tirna_s_CV_Jansky.pdf)
-
+<a href="/assets/Tirna_s_CV_Jansky.pdf" download class="download-button">Download CV</a>
