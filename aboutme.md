@@ -10,3 +10,6 @@ I was a good student since my childhood, which helped me to get admission to one
 After a long way through Bachelors and Masters studies and research at the Presidency University in Kolkata, NCRA-TIFR and IUCAA in Pune, I arrived at the Kapteyn Institute in the Netherlands for pursuing PhD in astronomy. Through several ups and downs, I hope my PhD journey will ‘succeed’ and take me to another scientific adventure in a new place. 
 
 If you want to know more about me and my research, please find the link to my CV here. If you want to share something, please feel free to contact me. 
+
+[Download CV](/assets/Tirna_s_CV_Jansky.pdf)
+
