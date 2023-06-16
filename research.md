@@ -27,7 +27,7 @@ title : "Research"
   <div class="container">
     <div class="columns">
       <div class="column is-one-quarter">
-        <img src="/assets/JO204_summary_cartoon.png" alt="Figure" width="100" height="200">
+        <img src="/assets/JO204_summary_cartoon.png" alt="Figure" width="300" height="300">
       </div>
       <div class="column">
         <p>
@@ -37,7 +37,7 @@ title : "Research"
     </div>
 
     <p>
-      I'm currently a PhD student at the Department of Physics and Applied Physics, University of Massachusetts, Lowell, MA. I also enjoy teaching undergraduate courses as a Graduate Teaching Assistant here.
+      xxxxxx
     </p>
 
   </div>
