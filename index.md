@@ -4,13 +4,10 @@ title: "Home"
 ---
 <style>
 .video-container {
-  position: fixed;
-  top: 0;
-  left: 0;
   height: 100vh;
   width: 100%;
   overflow: hidden;
-  z-index: 1;
+  z-index: -1;
 }
 
 .video-container video {
@@ -20,7 +17,6 @@ title: "Home"
 }
 
 .content-wrapper {
-  margin-top: 100vh;
   padding: 2rem;
 }
 
@@ -60,10 +56,13 @@ title: "Home"
         </div>
         <div class="column">
           <p>
-           I am Tirna Deb from India, a seeker of philosophy, ended up in the shores of the Netherlands, trying to unfold the mystery of galactic evolution and the influence of the cosmic environment on the galaxy's structural properties. Besides science; painting, music and poetry accompany me towards the voyage to infinitude. 
-
+           I am Tirna Deb from India, a seeker of philosophy, ended up in the shores of the Netherlands, trying to unfold the mystery of galactic evolution and the influence of the cosmic environment on the galaxy's structural properties. Besides science; painting, music and poetry accompany me towards the voyage to infinitude. 
           </p>
         </div>
       </div>
+    </div>
+  </section>
+</div>
+
 
    
