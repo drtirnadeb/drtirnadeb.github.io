@@ -29,6 +29,15 @@ title: " "
   color: white;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
+.overlay-text-2 {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
 
 .content-wrapper {
   margin-top: 100vh;
@@ -64,7 +73,7 @@ title: " "
     <h4>I am Tirna Deb, a seeker of philosophy</h4>
   </div>
 </div>
-<div class="overlay-text">
+<div class="overlay-text-2">
   <h4> Specialised in <span id="changing-word">xyz</span>.</h4>
 </div>
 <script>
