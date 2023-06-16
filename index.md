@@ -1,13 +1,17 @@
 ---
 layout: page
-title: "Home"
+title: " "
 ---
+
 <style>
 .video-container {
+  top: 0;
+  leftt: 0;
   height: 100vh;
   width: 100%;
   overflow: hidden;
-  z-index: -1;
+  z-index: 1;
+  margin-bottom: -5px;
 }
 
 .video-container video {
@@ -16,8 +20,20 @@ title: "Home"
   height: 100%;
 }
 
+.overlay-text {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
 .content-wrapper {
+  margin-top: 100vh;
   padding: 2rem;
+  margin-top: -5px;
 }
 
 .column.is-one-quarter {
@@ -44,6 +60,9 @@ title: "Home"
     <source src="/videos/Timelapse_Mt Holyoke_06172020.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
+  <div class="overlay-text">
+    <h1>Welcome to my page</h1>
+  </div>
 </div>
 
 <div class="content-wrapper">
@@ -51,15 +70,16 @@ title: "Home"
   <section class="section">
     <div class="container">
       <div class="columns">
+        <div class="column is-one-quarter">
+          <img src="/assets/1.jpg" alt="Figure" width="100" height="200">
+        </div>
         <div class="column">
           <p>
-           I am Tirna Deb from India, a seeker of philosophy, ended up in the shores of the Netherlands, trying to unfold the mystery of galactic evolution and the influence of the cosmic environment on the galaxy's structural properties. Besides science; painting, music and poetry accompany me towards the voyage to infinitude. 
+            I am Tirna Deb from India, a seeker of philosophy, ended up in the shores of the Netherlands, trying to unfold the mystery of galactic evolution and the influence of the cosmic environment on the galaxy's structural properties. Besides science; painting, music and poetry accompany me towards the voyage to infinitude. 
+
           </p>
         </div>
       </div>
     </div>
   </section>
 </div>
-
-
-   
