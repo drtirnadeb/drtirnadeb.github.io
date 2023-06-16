@@ -62,10 +62,11 @@ title: " "
   </video>
   <div class="overlay-text">
     <h4>I am Tirna Deb, a seeker of philosophy</h4>
-    <h4> Specialised in <span id="changing-word">infinitude</span>.</h4>
   </div>
 </div>
-
+<div class="overlay-text">
+  <h4> Specialised in <span id="changing-word">xyz</span>.</h4>
+</div>
 <script>
   const changingWord = document.getElementById('changing-word');
   const words = ['galaxy formation and evolution','multi-phase gas dynamics of jellyfish galaxies', 'radio astronomy using MeerKAT, ALMA', 'data analysis']; // Add your desired words here
