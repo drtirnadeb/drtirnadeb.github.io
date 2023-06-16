@@ -29,6 +29,19 @@
       color: #fff;
       font-size: 24px;
       text-align: center;
+      animation: moveText 10s infinite;
+    }
+
+    @keyframes moveText {
+      0% {
+        transform: translate(-50%, -50%);
+      }
+      50% {
+        transform: translate(-50%, -60%);
+      }
+      100% {
+        transform: translate(-50%, -50%);
+      }
     }
   </style>
 </head>
@@ -40,7 +53,7 @@
 
   <div id="content">
     <h1>Welcome to My Website</h1>
-    <p>This is some running text on top of the background video.</p>
+    <p>This is some moving text on top of the background video.</p>
   </div>
 </body>
 </html>
