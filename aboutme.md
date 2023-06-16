@@ -21,4 +21,4 @@ After a long way through Bachelors and Masters studies and research at the Presi
 
 If you want to know more about me and my research, please find the link to my CV here. If you want to share something, please feel free to contact me. 
 
-<a href="/assets/Tirna_s_CV_Jansky.pdf" download class="download-button" target="_blank">Open CV</a>
+<a href="/assets/Tirna_s_CV_Jansky.pdf" class="download-button" target="_blank">Open CV</a>
