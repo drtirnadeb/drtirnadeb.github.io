@@ -22,7 +22,7 @@ title: " "
 
 .overlay-text {
   position: absolute;
-  top: 70%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 2rem;
@@ -61,7 +61,18 @@ title: " "
     Your browser does not support the video tag.
   </video>
   <div class="overlay-text">
-    <h4> I am Tirna Deb from India, a seeker of philosophy, ended up in the shores of the Netherlands, trying to unfold the mystery of galactic evolution and the influence of the cosmic environment on the galaxy's structural properties. Besides science; painting, music and poetry accompany me towards the voyage to infinitude. </h4>
+    <h4>I am Tirna Deb, a seeker of philosophy</h4>
+    <h4> Specialised in <span id="changing-word">infinitude</span>.</h4>
   </div>
 </div>
 
+<script>
+  const changingWord = document.getElementById('changing-word');
+  const words = ['galaxy formation and evolution','multi-phase gas dynamics of jellyfish galaxies', 'radio astronomy using MeerKAT, ALMA', 'data analysis']; // Add your desired words here
+  let index = 0;
+
+  setInterval(() => {
+    changingWord.textContent = words[index];
+    index = (index + 1) % words.length;
+  }, 2000); // Change the duration (in milliseconds) to control the word change frequency
+</script>
