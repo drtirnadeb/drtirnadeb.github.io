@@ -79,7 +79,6 @@ title: " "
 <div class="overlay-text-2">
   <h4>Specialized in <span id="changing-word">xyz</span>.</h4>
 </div>
-
 <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 <script>
   const changingWord = document.getElementById('changing-word');
