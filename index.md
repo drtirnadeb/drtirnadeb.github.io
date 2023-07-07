@@ -73,13 +73,13 @@ title: " "
     <h4>I am Tirna Deb, a seeker of philosophy</h4>
   </div>
 </div>
-
-<div id="particles-js"></div>
-
 <div class="overlay-text-2">
   <h4>Specialized in <span id="changing-word">xyz</span>.</h4>
 </div>
-<script src="particles.js"></script>
+<p>
+  I am Tirna Deb, a PhD in astronomy, experienced in statistical data processing, programming, and modelling. During my PhD in the Netherlands, I investigated the mystery of galactic evolution and the influence of the cosmic environment on the galaxy's structural properties. After obtaining a prestigious fellowship to conduct independent research, I am currently conducting research as the principal investigator (PI) of a project that I designed myself. I am also visiting several universities in the USA to broaden my collaboration and my scientific horizons. Though I am originally from India, I have lived and worked on four different continents. Thus, I consider myself a global citizen, a person with a unique combination of openness to new ideas and a strong hold on their own ideals and roots.
+
+</p>
 <script>
   const changingWord = document.getElementById('changing-word');
   const words = ['galaxy formation and evolution', 'multi-phase gas dynamics of jellyfish galaxies', 'radio astronomy using MeerKAT, ALMA', 'data analysis']; // Add your desired words here
@@ -89,114 +89,5 @@ title: " "
     changingWord.textContent = words[index];
     index = (index + 1) % words.length;
   }, 2000); // Change the duration (in milliseconds) to control the word change frequency
-
-  particlesJS('particles-js', {
-    particles: {
-      number: {
-        value: 80,
-        density: {
-          enable: true,
-          value_area: 800
-        }
-      },
-      color: {
-        value: '#ffffff'
-      },
-      shape: {
-        type: 'circle',
-        stroke: {
-          width: 0,
-          color: '#000000'
-        },
-        polygon: {
-          nb_sides: 5
-        },
-        image: {
-          src: 'img/github.svg',
-          width: 100,
-          height: 100
-        }
-      },
-      opacity: {
-        value: 0.5,
-        random: false,
-        anim: {
-          enable: false,
-          speed: 1,
-          opacity_min: 0.1,
-          sync: false
-        }
-      },
-      size: {
-        value: 5,
-        random: true,
-        anim: {
-          enable: false,
-          speed: 40,
-          size_min: 0.1,
-          sync: false
-        }
-      },
-      line_linked: {
-        enable: true,
-        distance: 150,
-        color: '#ffffff',
-        opacity: 0.4,
-        width: 1
-      },
-      move: {
-        enable: true,
-        speed: 6,
-        direction: 'none',
-        random: false,
-        straight: false,
-        out_mode: 'out',
-        attract: {
-          enable: false,
-          rotateX: 600,
-          rotateY: 1200
-        }
-      }
-    },
-    interactivity: {
-      detect_on: 'canvas',
-      events: {
-        onhover: {
-          enable: true,
-          mode: 'repulse'
-        },
-        onclick: {
-          enable: true,
-          mode: 'push'
-        },
-        resize: true
-      },
-      modes: {
-        grab: {
-          distance: 400,
-          line_linked: {
-            opacity: 1
-          }
-        },
-        bubble: {
-          distance: 400,
-          size: 40,
-          duration: 2,
-          opacity: 8,
-          speed: 3
-        },
-        repulse: {
-          distance: 200,
-          duration: 0.4
-        },
-        push: {
-          particles_nb: 4
-        },
-        remove: {
-          particles_nb: 2
-        }
-      }
-    },
-    retina_detect: true
-  });
+});
 </script>
