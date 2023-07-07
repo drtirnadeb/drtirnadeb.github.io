@@ -27,7 +27,7 @@ title : "Research"
   <div class="container">
     <div class="columns">
       <div class="column is-one-quarter">
-        <img src="/assets/galaxy_structure_cartoon.jpeg" alt="Figure" width="400" height="250">
+        <img src="/assets/galaxy_structure_cartoon.jpeg" alt="Figure" width="450" height="150">
       </div>
       <div class="column">
         <p>
