@@ -70,7 +70,8 @@ title: " "
     Your browser does not support the video tag.
   </video>
   <div class="overlay-text">
-    <h4>I am Tirna Deb, a seeker of philosophy</h4>
+    <h4>I am Tirna Deb</h4>
+    <h4> a seeker of knowledge and ideas</h4>
   </div>
 </div>
 <div class="overlay-text-2">
@@ -83,7 +84,7 @@ title: " "
 </p>
 <script>
   const changingWord = document.getElementById('changing-word');
-  const words = ['galaxy formation and evolution', 'multi-phase gas dynamics of jellyfish galaxies', 'radio astronomy using MeerKAT, ALMA', 'data analysis']; // Add your desired words here
+  const words = ['radio astronomy', 'galaxy evolution', 'data processing', 'programming']; // Add your desired words here
   let index = 0;
 
   setInterval(() => {
