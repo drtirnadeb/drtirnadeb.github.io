@@ -80,7 +80,7 @@ title: " "
   <h4>Specialized in <span id="changing-word"></span></h4>
 </div>
 <br>
-<p style="text-align: center;">
+<p>
   I am Tirna Deb, a PhD in astronomy, experienced in statistical data processing, programming, and modelling. During my PhD in the Netherlands, I investigated the mystery of galactic evolution and the influence of the cosmic environment on the galaxy's structural properties. After obtaining a prestigious fellowship to conduct independent research, I am currently conducting research as the principal investigator (PI) of a project that I designed myself. I am also visiting several universities in the USA to broaden my collaboration and my scientific horizons. Though I am originally from India, I have lived and worked on four different continents. Thus, I consider myself a global citizen, a person with a unique combination of openness to new ideas and a strong hold on their own ideals and roots.
 </p>
 <script>
