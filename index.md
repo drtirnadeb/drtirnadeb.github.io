@@ -40,6 +40,7 @@ title: " "
   color: white;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   text-align: center; /* Added to center-align the text */
+  color: #FF8C00; /* Added to specify the color of the changing words (orange) */
 }
 
 .content-wrapper {
