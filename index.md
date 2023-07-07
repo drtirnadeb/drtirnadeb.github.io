@@ -40,7 +40,6 @@ title: " "
   color: white;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   text-align: center; /* Added to center-align the text */
-  color: #FF8C00; /* Added to specify the color of the changing words (orange) */
 }
 
 .content-wrapper {
@@ -78,7 +77,7 @@ title: " "
   </div>
 </div>
 <div class="overlay-text-2">
-  <h4>Specialized in <span id="changing-word">xyz</span>.</h4>
+  <h4>Specialized in <span id="changing-word"></span></h4>
 </div>
 <br>
 <p style="text-align: center;">
@@ -90,7 +89,7 @@ title: " "
   let index = 0;
 
   setInterval(() => {
-    changingWord.textContent = words[index];
+    changingWord.innerHTML = '<span style="color: #FF8C00">' + words[index] + '</span>'; // Wrap changing word in a span with the desired color
     index = (index + 1) % words.length;
   }, 2000); // Change the duration (in milliseconds) to control the word change frequency
 </script>
