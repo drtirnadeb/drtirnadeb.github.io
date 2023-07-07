@@ -5,7 +5,7 @@ title : "Research"
 <head>
   <style>
     .column.is-one-quarter {
-      float: left;
+      float: right;
       margin-right: 1rem;
     }
 
