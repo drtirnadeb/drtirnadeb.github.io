@@ -31,7 +31,7 @@ I was a good student since my childhood, which helped me to get admission to one
 
 After a long way through Bachelors and Masters studies and research at the Presidency University in Kolkata, NCRA-TIFR and IUCAA in Pune, I arrived at the Kapteyn Institute in the Netherlands for pursuing PhD in astronomy. Through several ups and downs, my PhD journey ‘succeed’ed and took me to another scientific adventure in South Africa.
 
-I obtained a prestigious fellowship in South Africa to conduct independent research after my PhD. Currently conducting research as the principal investigator (PI) of a project that I designed myself. I am also visiting several universities in the USA to broaden my collaboration and my scientific understanding.
+I obtained a prestigious fellowship in South Africa to conduct independent research after my PhD. Currently conducting research as the principal investigator (PI) of a project that I designed myself. Moreover, I am passionate about mentoring students, currently I am mentoring two master’s students for their thesis project in South Africa. I am also visiting several universities in the USA to broaden my collaboration and my scientific understanding.
 
 After living in four different continents across the world and experiencing diverse geographical and cultural diversities, I am now open to broaden my horizon beyond astronomy.
 
