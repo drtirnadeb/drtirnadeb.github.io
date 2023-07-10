@@ -73,7 +73,6 @@ title: " "
   </video>
   <div class="overlay-text">
     <h4>I am Tirna Deb</h4>
-    <h4>a seeker of knowledge and ideas</h4>
   </div>
 </div>
 <div class="overlay-text-2">
