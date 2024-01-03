@@ -37,7 +37,7 @@ title : "Research"
     </div>
 
     <p>
-      This website is still work in progress. 
+      This website is still work in progress.. 
     </p>
 
   </div>
