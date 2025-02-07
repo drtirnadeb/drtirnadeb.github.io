@@ -84,7 +84,7 @@ I am Tirna Deb, a <strong>PhD in Astrophysics</strong>, experienced in data-driv
 
 After receiving the prestigious Rubicon fellowship, I moved to <strong>Harvard University</strong> to lead my own independent research as the principal investigator (PI) of a project I designed. As I navigate the intersection of <strong>data science, machine learning, and scientific research</strong>, I am actively working toward expanding my collaborations and broadening my expertise beyond academia.
 
-Though originally from India, I have lived and worked across four continents, shaping my perspective as a global citizen—open to new ideas while staying deeply connected to my roots.
+Though originally from India, I have lived and <strong>worked across four continents</strong>, shaping my perspective as a global citizen—open to new ideas while staying deeply connected to my roots.
 </p>
 <script>
   const changingWord = document.getElementById('changing-word');
