@@ -88,7 +88,7 @@ Though originally from India, I have lived and worked across four continents, sh
 </p>
 <script>
   const changingWord = document.getElementById('changing-word');
-  const words = ['radio astronomy', 'galaxy evolution', 'data processing', 'programming']; // Add your desired words here
+  const words = ['Statistical Data Processing', 'Anomaly Detection & Signal Processing', 'Programming (Python)', 'Machine Learning & Data Science', 'Radio astronomy', 'Galaxy evolution']; // Add your desired words here
   let index = 0;
 
   setInterval(() => {
