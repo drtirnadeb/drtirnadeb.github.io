@@ -80,7 +80,11 @@ title: " "
 </div>
 <br>
 <p>
-  I am Tirna Deb, a PhD in astronomy, experienced in astronomical research on galaxy evolution, radio astronomy, statistical data processing, programming, and modelling. During my PhD in the Netherlands, I investigated the mystery of galactic evolution and the influence of the cosmic environment on the galaxy's structural properties. After obtaining a prestigious fellowship to conduct independent research at Harvard University, I am currently conducting research as the principal investigator (PI) of a project that I designed myself. I am working actively towards broadening my collaboration and my scientific horizons in astronomy and data science. Though I am originally from India, I have lived and worked on four different continents. Thus, I consider myself a global citizen, a person with a unique combination of openness to new ideas and a strong hold on their own ideals and roots.
+I am Tirna Deb, a PhD in Astrophysics, experienced in data-driven research, statistical data reduction, processing, modeling, machine learning, and programming. My expertise includes **detecting faint signals, handling high-dimensional and noisy datasets, anomaly detection, and data visualization**. I enjoy **diving deep into complex datasets, uncovering hidden patterns, and translating raw data into meaningful discoveries with real-world impact**. While my background is in astronomical research—studying galaxy evolution and radio astronomy—my expertise lies in extracting insights from complex datasets. During my PhD in the Netherlands, I investigated the mystery of galactic evolution and how the cosmic environments shape galaxy structures, applying advanced data analysis techniques along the way.
+
+After receiving the prestigious Rubicon fellowship, I moved to **Harvard University** to lead my own independent research as the principal investigator (PI) of a project I designed. As I navigate the intersection of **data science, machine learning, and scientific research**, I am actively working toward expanding my collaborations and broadening my expertise beyond academia.
+
+Though originally from India, I have lived and worked across four continents, shaping my perspective as a global citizen—open to new ideas while staying deeply connected to my roots.
 </p>
 <script>
   const changingWord = document.getElementById('changing-word');
