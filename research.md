@@ -1,23 +1,23 @@
----
-layout: page
-title : "Research"
----
 <head>
   <style>
     .column.is-one-quarter {
       float: right;
-      margin-right: 1rem;
+      margin-left: 1.5rem; /* Space between text and image */
+      max-width: 300px; /* Adjust image width */
     }
 
-    .column:last-child {
-      margin-bottom: 1rem;
+    .column.is-one-quarter img {
+      width: 100%; /* Makes sure the image scales properly */
+      height: auto; /* Maintains aspect ratio */
+      border-radius: 10px; /* Optional: Rounds corners for aesthetics */
     }
 
     @media screen and (max-width: 768px) {
       .column.is-one-quarter {
         float: none;
-        margin-right: 0;
+        margin-left: 0;
         margin-bottom: 1rem;
+        max-width: 100%; /* Full width on small screens */
       }
     }
   </style>
@@ -27,7 +27,7 @@ title : "Research"
   <div class="container">
     <div class="columns">
       <div class="column is-one-quarter">
-        <img src="/assets/Thesis_cover_TD.jpg" alt="Figure" width="450" height="150">
+        <img src="/assets/Thesis_cover_TD" alt="Figure" width="450" height="150">
       </div>
       <div class="column">
         <h2>SYMPHANY: A Cosmic Symphony of Galaxy Evolution</h2>
