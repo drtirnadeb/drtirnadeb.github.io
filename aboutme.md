@@ -44,7 +44,3 @@ After living across four continents, I consider myself a global citizen. Beyond 
 📄 Want to know more? Check out my Resume, explore my GitHub, or connect with me!
 
 Thank you for stepping into my digital world—I look forward to weaving more chapters into my scientific and creative narrative.
-
-
-
-<a href="/assets/Tirna_s_CV_Jansky.pdf" class="download-button" target="_blank">Open CV</a>
