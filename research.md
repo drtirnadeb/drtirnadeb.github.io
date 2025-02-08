@@ -87,7 +87,4 @@
 
         <p>🔭✨ The cosmos is a symphony, and I am here to listen. 😊</p>
       </div>
-    </div>
-
-  </div>
 </section>
