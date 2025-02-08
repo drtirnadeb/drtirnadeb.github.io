@@ -27,7 +27,7 @@
   <div class="container">
     <div class="columns">
       <div class="column is-one-quarter">
-        <img src="/assets/Thesis_cover_TD" alt="Figure" width="450" height="150">
+        <img src="/assets/Thesis_cover_TD.jpg" alt="Figure" width="450" height="150">
       </div>
       <div class="column">
         <h2>SYMPHANY: A Cosmic Symphony of Galaxy Evolution</h2>
