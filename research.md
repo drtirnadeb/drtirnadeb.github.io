@@ -32,41 +32,36 @@ title : "Research"
       <div class="column">
         <p>
 
-## Illuminating Galaxy Evolution:  SYMPHANY Project
+## SYMPHANY: A Cosmic Symphony of Galaxy Evolution
 
-## Unraveling the Cosmic Mysteries of Galaxy Evolution
+### The Cosmic Dance of Galaxies
+Galaxies are dynamic, ever-changing entities, shaped by the delicate interplay of gas, stars, and cosmic forces. Some evolve in isolation, while others interact, collide, and transform within dense galaxy clusters. But what drives these changes? Why do some galaxies thrive while others lose their ability to form stars?
 
-The universe is a vast and dynamic space, teeming with galaxies of all shapes, sizes, and compositions. At the heart of galaxy evolution lies an intricate interplay between gas, stars, and cosmic forces that dictate their life cycles. Some galaxies thrive in solitude, while others collide, interact, and undergo dramatic transformations in dense clusters. But how do these environmental factors influence the fate of galaxies?
+These questions fuel my research in SYMPHANY (SYnergy of Molecular PHase And Neutral hYdrogen in galaxies in A2626)—a project that orchestrates the role of gas in galaxy evolution. My goal is to unravel how atomic (HI) and molecular hydrogen (H₂), the fundamental fuels for star formation, behave in different cosmic environments.
 
-This is the central question driving my research in the SYMPHANY (SYnergy of Molecular PHase And Neutral hYdrogen in galaxies in A2626) project—a pioneering investigation into how galaxies evolve as they move through different cosmic environments. SYMPHANY orchestrates the understanding of the role of gas—specifically atomic hydrogen (HI) and molecular hydrogen (H₂)—in shaping galaxy evolution.  🎶✨
+### Gas: The Hidden Architect of Galaxies
+A galaxy’s fate is tied to its gas supply. HI gas extends beyond galaxies, forming reservoirs for future star formation, while H₂ is the dense fuel that directly births stars. Yet, in crowded environments, powerful forces like ram-pressure stripping (RPS) can strip away HI, quenching star formation. The mystery? Some stripped galaxies still form stars—suggesting hidden processes at play.
 
-## Gas: The Invisible Fuel of Galaxies
+To decode this puzzle, I am leading a multi-wavelength observational campaign focused on A2626, a galaxy cluster rich with dynamic substructures.
 
-Galaxies are not just clusters of stars; they also contain vast reservoirs of interstellar gas, which serve as the essential raw material for star formation. The two key phases of hydrogen gas—neutral atomic gas (HI) and dense molecular gas (H₂)—are crucial indicators of a galaxy’s ability to sustain star formation. While HI forms extended gas discs around galaxies, H₂ resides deeper within, where it condenses into stars.
+### A Multi-Telescope Quest
+I am using some of the most powerful telescopes in the world to map the evolution of galaxies in A2626:
 
-However, in crowded galactic environments like clusters, galaxies often lose their gas due to powerful external forces. Ram-pressure stripping (RPS)—a process where hot cluster gas sweeps away a galaxy's hydrogen—is one of the key mechanisms that quench star formation. Yet, a puzzling contradiction remains: why do some galaxies stripped of their HI still retain their molecular gas and continue forming stars?
+🔭 MeerKAT (South Africa): Imaging HI gas to understand how galaxies are pre-processed before entering the cluster.
+🔭 ALMA (Chile) & SMA (Hawaii): Tracing molecular gas (H₂) to explore how galaxies retain or lose their star-forming fuel.
 
-To address these mysteries, I am leading an ambitious multi-wavelength observational program, leveraging some of the most powerful telescopes in the world to study the transformation of galaxies in A2626—a moderately massive galaxy cluster surrounded by dynamic substructures.
+By combining these datasets, SYMPHANY provides a panchromatic view of how galaxies transform across different environments.
 
-## A Multi-Telescope, Multi-Wavelength Investigation
+### Unraveling Cosmic Mysteries
+With this approach, I seek to answer:
 
-The SYMPHANY project harnesses the capabilities of cutting-edge telescopes to explore different components of interstellar gas across A2626 and its surroundings:
+What forces turn star-forming galaxies into gas-poor, quiescent systems?
+How does a galaxy’s environment shape its molecular gas supply and future evolution?
 
-🔭 MeerKAT (South Africa) – One of the world's most sensitive radio telescopes, providing high-resolution imaging of atomic gas (HI) in galaxies from the cluster core to its outskirts. I am currently analyzing fresh data to uncover how galaxies are pre-processed before entering the cluster.
+### A New Perspective on Galaxy Evolution
+By harmonizing cutting-edge observations with compelling visual storytelling, SYMPHANY composes a cosmic symphony of galaxy transformation. Each dataset, like a musical note, contributes to a richer understanding of the grand orchestration that shapes our universe.
 
-🔭 ALMA (Chile) & SMA (Hawaii) – These sub-millimeter telescopes trace molecular gas (H₂), offering insights into how star-forming galaxies retain or lose their dense gas reservoirs under environmental pressures. With ALMA and SMA observations, I am investigating 50 galaxies with varying gas content and stripping signatures.
-
-Together, these observations provide a panchromatic window into the different phases of gas and their role in galaxy transformation.
-
-## Key Scientific Questions
-
-Through this multi-faceted approach, SYMPHANY aims to answer fundamental astrophysical questions:
-
-What processes dominate the transformation of galaxies from star-forming and gas-rich to quiescent and gas-poor?\
-Why do some HI-stripped galaxies continue forming stars despite losing their atomic gas?\
-How do different environments—cluster cores, outskirts, and galaxy groups—affect molecular gas reservoirs?\
-How do the gas properties of galaxies in A2626 compare with other well-studied clusters like Virgo and Fornax?
-
+🔭✨ The cosmos is a symphony, and I am here to listen. 😊
 
 
         </p>
