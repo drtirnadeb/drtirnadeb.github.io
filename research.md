@@ -26,9 +26,9 @@
 <section class="section">
   <div class="container">
     <div class="columns">
-      <div class="column is-one-quarter">
-        <img src="/assets/Thesis_cover_TD.jpg" alt="Figure" width="450" height="150">
-      </div>
+<div class="column is-one-quarter">
+  <img src="/assets/Thesis_cover_TD" alt="Figure" title="Metaphor of ‘cosmic dance’ of ‘Nataraj’ for galaxy formation and evolution, my thesis cover :)">
+</div>      
       <div class="column">
         <h2>SYMPHANY: A Cosmic Symphony of Galaxy Evolution</h2>
 
