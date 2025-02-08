@@ -25,20 +25,26 @@ title: ""
 
 <img src="/assets/IMG_3833.JPG" alt="Profile Image" class="profile-image">
 
-Welcome to my digital abode! Once upon a time, I was born on a rainy Saturday evening in Kolkata, one of India's vibrant metropolitan cities. My family named me ‘Tirna’, in Sanskrit which means ‘to succeed’. Anyway, without understanding the deeper meaning of the name, I started my journey. I grew up in the suburban area around Kolkata, in close connection with my family, the clear dark sky full of stars, the evergreen trees and physics and mathematics.
+### Welcome to My Digital Abode!
 
-I was a good student since my childhood, which helped me to get admission to one of the premier institutes in India for science, Presidency university. In the cacophony of the city life, finally I found an abode of peace in astronomy. Thanks to the universe, for quenching the scientific and artistic desire of a tiny human-being like me.
+Once upon a time, I was born on a rainy Saturday evening in Kolkata, one of India’s vibrant metropolitan cities. My family named me ‘Tirna’, meaning “to succeed” in Sanskrit. Without fully realizing its meaning, I embarked on my journey, growing up in the suburban areas around Kolkata—surrounded by my family, clear dark skies full of stars, evergreen trees, and a passion for physics and mathematics.
 
-After a long way through Bachelors and Masters studies and research at the Presidency University in Kolkata, NCRA-TIFR and IUCAA in Pune, I arrived at the Kapteyn Institute in the Netherlands for pursuing PhD in Astronomy. Through several ups and downs, my PhD journey ‘succeed’ed and propelled me to another scientific adventure in South Africa.
+I pursued my education at Presidency University, India, where I found my calling in astronomy, a field that quenched both my scientific curiosity and artistic sensibilities. My journey took me across multiple institutions—from NCRA-TIFR and IUCAA in Pune to Kapteyn Institute, Netherlands, where I completed my PhD in Astronomy. After a successful PhD, I ventured into independent research in South Africa, and later, at the Center for Astrophysics at Harvard University, funded by the prestigious Rubicon Fellowship.
 
-I obtained an independent fellowship in South Africa to conduct postdoctoral research after my PhD. After working there for a year and half, 
-I was awarded the prestigious "Rubicon Fellowship" by the Dutch Research Council to conduct independent research at the Center for Astrophysics at Harvard University. Currently I am conducting research as the principal investigator (PI) of a project that I designed myself. I am working towards broadening my horizon in Astronomy and Data Science. 
+### From Astronomy to Data Science & Quantitative Research
 
-After living in four different continents across the world and experiencing diverse geographical and cultural diversities, I consider myself a global citizen. Beyond the equations and data, my heart beats for painting, singing, weaving short stories, crafting vlogs, and the rhythmic dance of poetry.
+Throughout my research career, I worked extensively with large-scale astronomical datasets, advanced statistical modeling, and computational techniques—skills that seamlessly translate into data science, machine learning, and quantitative research. From analyzing terabytes of observational data to developing predictive models, I’ve honed expertise in Python, R, SQL, statistical modeling, Bayesian inference, time series analysis, and AI-driven insights.
 
-For those curious about my journey and research, you can find my CV here. Feel free to drop me a line if you'd like to share something or connect.
+Currently, as the Principal Investigator of my research project, I independently design methodologies, work with high-dimensional data, and build analytical frameworks to answer complex questions. Beyond academia, I am eager to apply my analytical thinking, problem-solving skills, and programming expertise to data-driven industries, including finance, tech, and AI research.
 
-Thank you for stepping into my digital world in which I am not so active yet. :) I look forward to weaving more chapters into my scientific and creative narrative.
+### Beyond Science
+
+After living across four continents, I consider myself a global citizen. Beyond equations and data, my heart beats for painting, singing, weaving short stories, crafting vlogs, and the rhythmic dance of poetry.
+
+📄 Want to know more? Check out my Resume, explore my GitHub, or connect with me!
+
+Thank you for stepping into my digital world—I look forward to weaving more chapters into my scientific and creative narrative.
+
 
 
 <a href="/assets/Tirna_s_CV_Jansky.pdf" class="download-button" target="_blank">Open CV</a>
