@@ -25,11 +25,12 @@
 
 <section class="section">
   <div class="container">
-    <div class="columns">
-<div class="column is-one-quarter">
-  <img src="/assets/Thesis_cover_TD.jpg" alt="Figure" title="Metaphor of ‘cosmic dance’ of ‘Nataraj’ for galaxy formation and evolution, my thesis cover :)">
-</div>      
-      <div class="column">
+    <figure class="column is-one-quarter">
+  <img src="/assets/Thesis_cover_TD.jpg" alt="Figure">
+  <figcaption style="text-align: center; font-style: italic; font-size: 14px;">
+    Metaphor of ‘cosmic dance’ of ‘Nataraj’ for galaxy formation and evolution, my thesis cover :)
+  </figcaption>
+</figure>
         <h2>SYMPHANY: A Cosmic Symphony of Galaxy Evolution</h2>
 
         <h3>The Cosmic Dance of Galaxies</h3>
