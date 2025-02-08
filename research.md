@@ -88,9 +88,5 @@
       </div>
     </div>
 
-    <p>
-      This website is still work in progress.. 
-    </p>
-
   </div>
 </section>
