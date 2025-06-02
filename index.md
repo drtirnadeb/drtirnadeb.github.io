@@ -30,7 +30,7 @@ title: "Projects"
   <img src="/assets/car_price.jpg" alt="Car Price Project">
   <h3>Used Car Price Prediction</h3>
   <p>A regression model predicting used car prices based on various features. Built in Python with scikit-learn.</p>
-  <a href="https://github.com/drtirnadeb/car-price-prediction" target="_blank">View Project</a>
+  <a href="https://github.com/drtirnadeb/Used_cars_price_prediction" target="_blank">View Project</a>
 </div>
 
 <div class="project-card">
