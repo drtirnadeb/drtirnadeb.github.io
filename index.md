@@ -1,44 +1,54 @@
 ---
-layout: page
-title: "Projects"
+title: "Tirna Deb – Portfolio"
+layout: default
 ---
 
-<style>
-.project-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-}
-
-.project-card {
-  flex: 1 1 300px;
-  border: 1px solid #ddd;
-  padding: 15px;
-  border-radius: 8px;
-  text-align: center;
-}
-
-.project-card img {
-  max-width: 100%;
-  border-radius: 6px;
-}
-</style>
-
-<div class="project-grid">
-
-<div class="project-card">
-  <img src="/assets/car_price.jpg" alt="Car Price Project">
-  <h3>Used Car Price Prediction</h3>
-  <p>A regression model predicting used car prices based on various features. Built in Python with scikit-learn.</p>
-  <a href="https://github.com/drtirnadeb/Used_cars_price_prediction" target="_blank">View Project</a>
+<div style="text-align: center;">
+  <h1>Hi, I am Tirna Deb 👋</h1>
+  <p>Astrophysicist turned AI researcher | Bridging science and data for societal impact</p>
 </div>
 
-<div class="project-card">
-  <img src="/assets/Clinical_trial_matcher.jpg" alt="Clinical Trial Matcher">
-  <h3>Clinical Trial Matcher</h3>
-  <p>ML-powered Gradio app to recommend personalized clinical trials for women with PCOS and related conditions.</p>
-  <a href="https://huggingface.co/spaces/tirnadebphd/clinical-trial-matcher" target="_blank">Live Demo</a> |
-  <a href="https://github.com/drtirnadeb/clinical-trial-matcher" target="_blank">GitHub</a>
-</div>
+<hr>
+
+### 🧠 Featured Projects
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+ <div class="project-card" style="width: 300px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px;">
+    <img src="/assets/car_price.jpg" alt="Car Price Project" style="width:100%; border-radius: 6px;">
+    <h3>🚗 Used Car Price Prediction</h3>
+    <p>Regression model to predict used car prices using scikit-learn and Python.</p>
+    <a href="https://github.com/drtirnadeb/Used_cars_price_prediction" target="_blank">View Project</a>
+  </div>
+
+  <div class="project-card" style="width: 300px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px;">
+    <img src="/assets/Clinical_trial_matcher.jpg" alt="Clinical Trial Matcher" style="width:100%; border-radius: 6px;">
+    <h3>🧬 Clinical Trial Matcher</h3>
+    <p>ML-powered Gradio app recommending trials for women with PCOS and related conditions.</p>
+    <a href="https://huggingface.co/spaces/tirnadebphd/clinical-trial-matcher" target="_blank">Live Demo</a> |
+    <a href="https://github.com/drtirnadeb/clinical-trial-matcher" target="_blank">GitHub</a>
+  </div>
+
+  <div class="project-card" style="width: 300px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px;">
+    <img src="/assets/FoodHub_Order.png" alt="FoodHub Order Analysis" style="width:100%; border-radius: 6px;">
+    <h3>🍔 FoodHub Order Analysis</h3>
+    <p>Trend analysis of food delivery data using Python for customer and business insights.</p>
+    <a href="/projects/foodhub-order-analysis">View Details</a>
+  </div>
+
+  <div class="project-card" style="width: 300px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px;">
+    <img src="/assets/Boston_House_Price.png" alt="Boston House Price" style="width:100%; border-radius: 6px;">
+    <h3>🏡 Boston House Price Prediction</h3>
+    <p>Regression-based housing price predictor using Boston dataset and scikit-learn.</p>
+    <a href="/projects/boston-house-price">View Details</a>
+  </div>
+
+  <div class="project-card" style="width: 300px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px;">
+    <img src="/assets/FineTune_DistilBERT.png" alt="DistilBERT" style="width:100%; border-radius: 6px;">
+    <h3>🤖 Fine-Tuning DistilBERT</h3>
+    <p>Comparing two fine-tuning strategies for sentiment classification with Hugging Face Transformers.</p>
+    <a href="/projects/fine-tune-distilbert">View Details</a>
+  </div>
+
 
 </div>
