@@ -4,7 +4,7 @@ layout: default
 ---
 
 <div style="text-align: center;">
-  <h1>Hi, I am Tirna Deb 👋</h1>
+  <h1>Hi, I am Tirna Deb! </h1>
   <p>Astrophysicist turned AI researcher | Bridging science and data for societal impact</p>
 </div>
 
