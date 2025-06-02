@@ -19,6 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "aboutme.md", title: "About me"}
   - {file: "research.md", title: "Research"}
   - {file: "resume.md", title: "Resume"}
+  - {file: "index.md", title: "Projects"}
+
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:tirnadeb.astro@gmail.com"}
