@@ -30,24 +30,24 @@ layout: default
   </div>
 
   <div class="project-card" style="width: 300px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px;">
-    <img src="/assets/FoodHub_Order.png" alt="FoodHub Order Analysis" style="width:100%; border-radius: 6px;">
+    <img src="/assets/foodhub_order_analysis.jpg" alt="FoodHub Order Analysis" style="width:100%; border-radius: 6px;">
     <h3>🍔 FoodHub Order Analysis</h3>
     <p>Trend analysis of food delivery data using Python for customer and business insights.</p>
-    <a href="/projects/foodhub-order-analysis">View Details</a>
+    <a href="https://github.com/drtirnadeb/FoodHub_data_analysis" target="_blank">GitHub</a>
   </div>
 
   <div class="project-card" style="width: 300px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px;">
-    <img src="/assets/Boston_House_Price.png" alt="Boston House Price" style="width:100%; border-radius: 6px;">
+    <img src="/assets/boston_housing_price.jpg" alt="Boston House Price" style="width:100%; border-radius: 6px;">
     <h3>🏡 Boston House Price Prediction</h3>
     <p>Regression-based housing price predictor using Boston dataset and scikit-learn.</p>
-    <a href="/projects/boston-house-price">View Details</a>
+     <a href="https://github.com/drtirnadeb/Boston_housing_price_prediction" target="_blank">GitHub</a>
   </div>
 
   <div class="project-card" style="width: 300px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px;">
-    <img src="/assets/FineTune_DistilBERT.png" alt="DistilBERT" style="width:100%; border-radius: 6px;">
+    <img src="/assets/llm_fine_tuning.jpg" alt="DistilBERT" style="width:100%; border-radius: 6px;">
     <h3>🤖 Fine-Tuning DistilBERT</h3>
     <p>Comparing two fine-tuning strategies for sentiment classification with Hugging Face Transformers.</p>
-    <a href="/projects/fine-tune-distilbert">View Details</a>
+   <a href="https://github.com/drtirnadeb/llm-finetuning-comparison" target="_blank">GitHub</a>
   </div>
 
 
