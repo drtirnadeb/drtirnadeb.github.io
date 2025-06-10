@@ -14,6 +14,14 @@ layout: default
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
+<div class="project-card" style="width: 300px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px;">
+    <img src="/assets/skindx_ai_project.jpg" alt="SkinDx AI Project" style="width:100%; border-radius: 6px;">
+    <h3>⚡ SkinDx AI – Skin Lesion Classifier</h3>
+    <p>Deep learning app for early triage of skin lesions using CNNs and medical image augmentation, deployed via Gradio.</p>
+    <a href="https://github.com/drtirnadeb/skindx-ai-lesion-classifier" target="_blank">View Project</a>
+</div>
+
+
  <div class="project-card" style="width: 300px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px;">
     <img src="/assets/car_price.jpg" alt="Car Price Project" style="width:100%; border-radius: 6px;">
     <h3>🚗 Used Car Price Prediction</h3>
