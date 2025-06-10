@@ -3,10 +3,13 @@ title: "Tirna Deb – Portfolio"
 layout: default
 ---
 
-<div style="text-align: center;">
-  <h1>Hi, I am Tirna Deb! </h1>
-  <p>Astrophysicist turned AI researcher | Bridging science and data for societal impact</p>
+<div style="text-align: center; margin-top: 40px;">
+  <h1 style="font-size: 2.5em; font-weight: bold;">Hi, I am Tirna Deb!</h1>
+  <p style="font-size: 1.2em; margin-top: 10px; color: #333;">
+    Astrophysicist turned AI researcher | Bridging science and data for societal impact
+  </p>
 </div>
+
 
 <hr>
 
