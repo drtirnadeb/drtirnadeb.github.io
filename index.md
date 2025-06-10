@@ -23,13 +23,6 @@ layout: default
 </div>
 
 
- <div class="project-card" style="width: 300px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px;">
-    <img src="/assets/used_car_prediction.jpg" alt="Car Price Project" style="width:100%; border-radius: 6px;">
-    <h3>🚗 Used Car Price Prediction</h3>
-    <p>Regression model to predict used car prices using scikit-learn and Python.</p>
-    <a href="https://github.com/drtirnadeb/Used_cars_price_prediction" target="_blank">View Project</a>
-  </div>
-
   <div class="project-card" style="width: 300px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px;">
     <img src="/assets/Clinical_trial_matcher.jpg" alt="Clinical Trial Matcher" style="width:100%; border-radius: 6px;">
     <h3>🧬 Clinical Trial Matcher</h3>
@@ -37,6 +30,15 @@ layout: default
     <a href="https://huggingface.co/spaces/tirnadebphd/clinical-trial-matcher" target="_blank">Live Demo</a> |
     <a href="https://github.com/drtirnadeb/clinical-trial-matcher" target="_blank">GitHub</a>
   </div>
+  
+
+   <div class="project-card" style="width: 300px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px;">
+    <img src="/assets/used_car_prediction.jpg" alt="Car Price Project" style="width:100%; border-radius: 6px;">
+    <h3>🚗 Used Car Price Prediction</h3>
+    <p>Regression model to predict used car prices using scikit-learn and Python.</p>
+    <a href="https://github.com/drtirnadeb/Used_cars_price_prediction" target="_blank">View Project</a>
+  </div>
+  
 
   <div class="project-card" style="width: 300px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px;">
     <img src="/assets/foodhub_order_analysis.jpg" alt="FoodHub Order Analysis" style="width:100%; border-radius: 6px;">
