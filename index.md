@@ -19,7 +19,7 @@ layout: default
     <h3>⚡ SkinDx AI – Skin Lesion Classifier</h3>
     <p>Deep learning app for early triage of skin lesions using CNNs and medical image augmentation, deployed via Gradio.</p>
       <a href="https://huggingface.co/spaces/tirnadebphd/SkinDx-App" target="_blank">Live Demo</a> |
-    <a href="https://github.com/drtirnadeb/skindx-ai-lesion-classifier" target="_blank">View Project</a>
+    <a href="https://github.com/drtirnadeb/skindx-ai-lesion-classifier" target="_blank">GitHub</a>
 </div>
 
 
