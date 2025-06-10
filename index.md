@@ -36,7 +36,7 @@ layout: default
     <img src="/assets/used_car_prediction.jpg" alt="Car Price Project" style="width:100%; border-radius: 6px;">
     <h3>🚗 Used Car Price Prediction</h3>
     <p>Regression model to predict used car prices using scikit-learn and Python.</p>
-    <a href="https://github.com/drtirnadeb/Used_cars_price_prediction" target="_blank">View Project</a>
+    <a href="https://github.com/drtirnadeb/Used_cars_price_prediction" target="_blank">GitHub</a>
   </div>
   
 
