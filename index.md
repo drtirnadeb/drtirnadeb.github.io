@@ -18,6 +18,14 @@ layout: default
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
 <div class="project-card" style="width: 300px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px;">
+    <img src="/assets/Fairframe_project.jpg" alt="FairFrame Fairness Analysis Project" style="width:100%; border-radius: 6px;">
+    <h3>⚖️ FairFrame – ML Fairness Audit Framework</h3>
+    <p>Designed a framework for fairness and bias assessment of machine learning models in a fictional fintech setting. Includes beginner, intermediate, and advanced audit levels with example tasks, scoring rubric, and mitigation strategies.</p>
+    <a href="https://github.com/drtirnadeb/FairFrame" target="_blank">GitHub</a>
+</div>
+
+
+<div class="project-card" style="width: 300px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px;">
     <img src="/assets/RoadRiskIQ.png" alt="RoadRiskIQ – US Accident Risk Explorer" style="width:100%; border-radius: 6px;">
     <h3>🛣️ RoadRiskIQ – US Accident Risk Explorer</h3>
     <p>Exploratory and risk-based analysis of 7.7M+ US traffic accidents using DuckDB, with severity-aware scoring, geospatial patterns, and time-based trends.</p>
